@@ -1,5 +1,5 @@
 # Floyd-Triangle
-Floyd's triangle made via **C language.**
+Floyd's triangle made in **C language.**
 
 In `Computer Science`, The **Floyd's triangle** basically is a *right-angled triangle array of consecutive natural numbers.*
 <br>
